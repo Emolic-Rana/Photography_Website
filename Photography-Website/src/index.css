@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #141414;
+  --color-bone: #F1EEE7;
+  --color-safelight:  #C1544F;
+  --color-fog: #8C8781;
+  --font-display: 'Fraunces', serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+html {
+  overscroll-behavior: none;
+}
+
+body {
+  background-color: var(--color-ink);
+  color: var(--color-bone);
+  font-family: var(--font-body);
+}

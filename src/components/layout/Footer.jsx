@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { FaInstagram, FaPinterestP } from 'react-icons/fa'
+import { FaInstagram, FaYoutube } from 'react-icons/fa'
 
 function Footer() {
   return (

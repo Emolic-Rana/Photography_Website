@@ -41,10 +41,10 @@ function Footer() {
           <div className="flex flex-col gap-3">
             <Link to="/" className="hover:text-bone transition-colors">Home</Link>
             <Link to="/about" className="hover:text-bone transition-colors">About</Link>
-            <Link to="/gallery" className="hover:text-bone transition-colors">Portfolio</Link>
+            <Link to="/gallery" className="hover:text-bone transition-colors">Gallery</Link>
           </div>
           <div className="flex flex-col gap-3">
-            <Link to="/services" className="hover:text-bone transition-colors">Services</Link>
+            <Link to="/services" className="hover:text-bone transition-colors">Pricing</Link>
             <Link to="/contact" className="hover:text-bone transition-colors">Contact</Link>
           </div>
         </div>

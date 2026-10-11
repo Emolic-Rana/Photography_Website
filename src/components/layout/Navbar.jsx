@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import { FaBars, FaTimes, FaInstagram, FaFacebookF } from 'react-icons/fa'
+import { FaBars, FaTimes, FaInstagram, FaYoutube } from 'react-icons/fa'
 
 function Navbar() {
   const [open, setOpen] = useState(false)

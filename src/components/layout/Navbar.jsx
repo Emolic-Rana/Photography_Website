@@ -44,7 +44,7 @@ function Navbar() {
         <nav className="hidden md:flex gap-10 font-body text-sm tracking-wide uppercase text-bone">
           <Link to="/gallery" className="hover:text-safelight transition-colors">Gallery</Link>
           <Link to="/about" className="hover:text-safelight transition-colors">About</Link>
-          <Link to="/services" className="hover:text-safelight transition-colors">Pricing</Link>
+          <Link to="/pricing" className="hover:text-safelight transition-colors">Pricing</Link>
           <Link to="/contact" className="hover:text-safelight transition-colors">Contact</Link>
         </nav>
 
@@ -65,8 +65,8 @@ function Navbar() {
           <Link to="/about" onClick={() => setOpen(false)} className="font-display text-3xl text-bone hover:text-safelight transition-colors">
             About
           </Link>
-          <Link to="/services" onClick={() => setOpen(false)} className="font-display text-3xl text-bone hover:text-safelight transition-colors">
-            Services
+          <Link to="/pricing" onClick={() => setOpen(false)} className="font-display text-3xl text-bone hover:text-safelight transition-colors">
+            Pricing
           </Link>
           <Link to="/contact" onClick={() => setOpen(false)} className="font-display text-3xl text-bone hover:text-safelight transition-colors">
             Contact

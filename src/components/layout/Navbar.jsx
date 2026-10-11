@@ -73,11 +73,11 @@ function Navbar() {
           </Link>
 
           <div className="flex gap-6 mt-6">
-            <a href="#" aria-label="Instagram" className="text-fog hover:text-bone transition-colors">
+            <a href="https://www.instagram.com/thelightboxproduction/?hl=en" aria-label="Instagram" className="text-fog hover:text-bone transition-colors">
               <FaInstagram size={22} />
             </a>
-            <a href="#" aria-label="Facebook" className="text-fog hover:text-bone transition-colors">
-              <FaFacebookF size={22} />
+            <a href="https://www.youtube.com/@THELIGHTBOXPRODUCTION" aria-label="Youtube" className="text-fog hover:text-bone transition-colors">
+              <FaYoutube size={22} />
             </a>
           </div>
         </div>

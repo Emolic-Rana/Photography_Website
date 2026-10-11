@@ -21,8 +21,8 @@ function Footer() {
             <a href="https://www.instagram.com/thelightboxproduction/?hl=en" aria-label="Instagram" className="text-fog hover:text-bone transition-colors">
               <FaInstagram size={16} />
             </a>
-            <a href="https://www.youtube.com/@THELIGHTBOXPRODUCTION" aria-label="Pinterest" className="text-fog hover:text-bone transition-colors">
-              <FaPinterestP size={16} />
+            <a href="https://www.youtube.com/@THELIGHTBOXPRODUCTION" aria-label="Youtube" className="text-fog hover:text-bone transition-colors">
+              <FaYoutube size={16} />
             </a>
           </div>
         </div>

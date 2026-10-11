@@ -18,10 +18,10 @@ function Footer() {
             thelightboxproduction72@gmail.com
           </a>
           <div className="flex gap-4 mt-5">
-            <a href="#" aria-label="Instagram" className="text-fog hover:text-bone transition-colors">
+            <a href="https://www.instagram.com/thelightboxproduction/?hl=en" aria-label="Instagram" className="text-fog hover:text-bone transition-colors">
               <FaInstagram size={16} />
             </a>
-            <a href="#" aria-label="Pinterest" className="text-fog hover:text-bone transition-colors">
+            <a href="https://www.youtube.com/@THELIGHTBOXPRODUCTION" aria-label="Pinterest" className="text-fog hover:text-bone transition-colors">
               <FaPinterestP size={16} />
             </a>
           </div>

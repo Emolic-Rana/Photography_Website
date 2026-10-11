@@ -17,7 +17,7 @@ function Services() {
       {/* <WhatWeOffer /> */}
       <section className="px-6 md:px-12 pt-25 pb-20 ">
         <span className="font-body text-xs uppercase tracking-widest text-safelight">
-          Services
+          Pricing
         </span>
         <h1 className="font-display text-4xl md:text-5xl font-light mt-3 mb-4">
           Packages
